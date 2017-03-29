@@ -1,5 +1,5 @@
 # Android-Notes
-Android Project from som books
+Android project from some books.
 
 ### MyService
 This is a Android project from  ***The First Line Cod*** Chapter 9.
