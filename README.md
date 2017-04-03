@@ -10,6 +10,7 @@ There are some picture show the result of this project.
 
 ### MaterialDesignDemo
 This is a Android project from chapter 12.
+
 <img src="material_design.gif" width="300px"/>
 
 <img src="material_design2.gif" width="300px"/>
