@@ -10,6 +10,7 @@ public class Fruit {
     private  int imageId;
     private String fruitName;
 
+
     public Fruit(int imageId, String fruitName) {
         this.imageId = imageId;
         this.fruitName = fruitName;
