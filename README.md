@@ -19,3 +19,7 @@ This is a Android project from chapter 12.
 This is a Android project by using BaiduMap
 
 <img src="baidumap.png" width="300px"/>
+
+-------------------
+##AndroidHeros
+The demos come from  ***AndroiHeros***
