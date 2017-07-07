@@ -21,5 +21,6 @@ This is a Android project by using BaiduMap
 <img src="baidumap.png" width="300px"/>
 
 -------------------
-##AndroidHeros
+## AndroidHeros
+
 The demos come from  ***AndroiHeros***
