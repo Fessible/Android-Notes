@@ -33,7 +33,7 @@ This is a demo showing how to change hue , saturability  and luminance with Seek
 
 -----
 
-I use the numer of 20 EditTexts to discribe the element of 4*5 ColorMatrix. When you change any of EditTexts , the image will  display different  result.This demo is in colormatrix package.
+I use  20 EditTexts to discribe the element of 4*5 ColorMatrix. When you change any of EditTexts , the image will  display different  result.This demo is in colormatrix package.
  
 
 <img src = "ColorMatrix.gif" width="300px"/>
