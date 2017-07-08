@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/colormatrix" />
+            <option value="$PROJECT_DIR$/piexeltest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

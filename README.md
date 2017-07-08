@@ -38,3 +38,16 @@ I use  20 EditTexts to discribe the element of 4*5 ColorMatrix. When you change 
 
 <img src = "ColorMatrix.gif" width="300px"/>
 
+---
+
+This  demo is  in the package pixeltest . In order to deal with  image  accurately, we can use Bitmap.getPixels() method to deal with image.  Bitmap.getPixels() method use a array to preserve pixel. 
+
+``` java
+bitmap.getPixels(pixels,offest,stride,x,y,width,height);
+```
+
+
+---
+
+<img src="pixelpic.gif" width="300px"/>
+

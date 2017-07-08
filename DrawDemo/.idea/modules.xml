@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DrawDemo.iml" filepath="$PROJECT_DIR$/DrawDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/colormatrix/colormatrix.iml" filepath="$PROJECT_DIR$/colormatrix/colormatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/piexeltest/piexeltest.iml" filepath="$PROJECT_DIR$/piexeltest/piexeltest.iml" />
     </modules>
   </component>
 </project>

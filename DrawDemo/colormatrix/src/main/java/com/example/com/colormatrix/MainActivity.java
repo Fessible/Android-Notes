@@ -100,8 +100,6 @@ public class MainActivity extends AppCompatActivity {
         canvas.drawBitmap(bitmap, 0, 0, paint);
         imageView.setImageBitmap(bm);
 
-
-
     }
 
     //获得矩阵的值
