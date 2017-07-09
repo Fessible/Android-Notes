@@ -1,1 +1,1 @@
-include ':app', ':colormatrix', ':piexeltest'
+include ':app', ':colormatrix', ':piexeltest', ':matrixtest', ':flagview'
