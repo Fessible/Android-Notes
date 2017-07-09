@@ -64,3 +64,9 @@ As we can see in the colormatrix package, we also use matrix to show the shape a
 In package **flagview**, it just use drawBitmapMesh()  to change image shape.
 
 <img src="flagview.gif" width="300px"/>
+
+----
+Now I use **PaintDemo** to show some advanced use of **Paint**.Here I show the 
+scratch card effect with PorterDuffXfermode.
+
+<img src="guagua.gif" width="300px"/>
