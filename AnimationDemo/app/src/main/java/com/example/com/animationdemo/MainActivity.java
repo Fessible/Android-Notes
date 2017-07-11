@@ -9,6 +9,7 @@ import android.view.animation.AnimationSet;
 import android.view.animation.RotateAnimation;
 import android.view.animation.ScaleAnimation;
 import android.view.animation.TranslateAnimation;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -39,6 +40,25 @@ public class MainActivity extends AppCompatActivity {
         TranslateAnimation translateAnimation = new TranslateAnimation(0, 200, 0, 300);
         translateAnimation.setDuration(1000);
         view.startAnimation(translateAnimation);
+        translateAnimation.setAnimationListener(new Animation.AnimationListener() {
+            @Override
+            public void onAnimationStart(Animation animation) {
+                Toast.makeText(MainActivity.this,"start Animation",Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onAnimationEnd(Animation animation) {
+                Toast.makeText(MainActivity.this,"End Animation",Toast.LENGTH_SHORT).show();
+
+
+            }
+
+            @Override
+            public void onAnimationRepeat(Animation animation) {
+                Toast.makeText(MainActivity.this,"repeat Animation",Toast.LENGTH_SHORT).show();
+
+            }
+        });
 
     }
 
