@@ -1,1 +1,1 @@
-include ':app', ':objectanimator', ':animationtest'
+include ':app', ':animation2', ':animationtest', ':customanim', ':svgview'

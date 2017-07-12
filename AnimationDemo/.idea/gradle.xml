@@ -8,9 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animation2" />
             <option value="$PROJECT_DIR$/animationtest" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/objectanimator" />
+            <option value="$PROJECT_DIR$/customanim" />
+            <option value="$PROJECT_DIR$/svgview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
