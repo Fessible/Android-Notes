@@ -6,9 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.example.com.paintdemo.MainActivity">
 
-    <com.example.com.paintdemo.SurfaceViewPanel
+    <com.example.com.paintdemo.RectPathView
+        android:id="@+id/surfaceview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-         />
+        android:layout_height="match_parent" />
+
 
 </RelativeLayout>
