@@ -70,3 +70,10 @@ Now I use **PaintDemo** to show some advanced use of **Paint**.Here I show the
 scratch card effect with PorterDuffXfermode.
 
 <img src="guagua.gif" width="300px"/>
+
+---
+
+In **Anim** package ,there are there effect of Animation.
+<img src="BounceMenu.gif" width="300px"/>
+<img src="timer.gif" width="300px"/>
+<img src="drop.gif" width="300px"/>
