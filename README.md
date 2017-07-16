@@ -74,6 +74,18 @@ scratch card effect with PorterDuffXfermode.
 ---
 
 In **Anim** package ,there are there effect of Animation.
-<img src="BounceMenu.gif" width="300px"/>
-<img src="timer.gif" width="300px"/>
-<img src="drop.gif" width="300px"/>
+
+<img src="BounceMenu.gif" width="300px"/><img src="timer.gif" width="300px"/><img src="drop.gif" width="300px"/>
+
+---
+In **SystemInfo** package there are some demo show how to get some information from our system.
+
+<img src="systemInfo.JPG" width="300px"/>
+
+This is  equiment information of system.
+
+
+<img src="showapp.gif" width="300px"/>
+
+I use PackageManager get the installation of phone.
+

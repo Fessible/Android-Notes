@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.example.com.systemtest.MainActivity">
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/all_app"
+    android:text="all app"
+    android:onClick="btnAllApp"
+
+    />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/system_app"
+        android:text="system app"
+        android:onClick="btnSystemApp"
+
+        />
+    <Button
+        android:onClick="btn3RDApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/three_app"
+        android:text="3RD App"
+        />
+    <Button
+        android:onClick="btnSDCardApp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sdcard_app"
+        android:text="sdcard app"
+        />
+    <ListView
+        android:id="@+id/lisetview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+
+
+
+</LinearLayout>
